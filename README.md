@@ -1,5 +1,5 @@
 ### Olá, eu sou o Alan Pedro 🖖
-<h4>Atualmente estou fazendo um Curso de Desenvolvimento Web</h4>
+<h4>Atualmente estou fazendo um Curso de Desenvolvimento Front-end</h4>
     <h4>As tecnologias que estou utilizando são:</h4>
 	<div>
         <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="imagem">
