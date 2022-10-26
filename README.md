@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/AlanPedroD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanPedroD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanPedroD&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPedroD&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
