@@ -19,8 +19,6 @@
 </div>
 
 
-
-
 <div>
 <a href="https://github.com/AlanPedroD">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPedroD&layout=compact&langs_count=7&theme=dracula"/>
@@ -28,24 +26,7 @@
 </div>
 
 
-
 ![Snake animation](https://github.com/AlanPedroD/AlanPedroD/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlanPedroD&repo=AlanPedroD&theme=react)](https://github.com/AlanPedroD/AlanPedroD)
-	
-
- 
-  
-
-    
-    
-    
-    
-
-    
-   
-
-
 
 
 
