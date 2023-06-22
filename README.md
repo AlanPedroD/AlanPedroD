@@ -1,5 +1,5 @@
 ## Olá, eu sou  Alan Pedro ✌️ 😊
-### Atualmente estou fazendo um Curso de Desenvolvimento Front-end
+### Atualmente estou fazendo Curso de Desenvolvimento Front-end
 ## As tecnologias que estou utilizando são:
 
 <div>
