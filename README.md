@@ -14,8 +14,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanPedroD&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPedroD&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-<div> 
   
 #### Minhas redes sociais:
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-pedro-734129163) 
