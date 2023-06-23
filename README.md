@@ -17,11 +17,13 @@
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
 <br>
-<div>
-<a href="https://beacons./AlanPedroD">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanPedroD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPedroD&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<p align="left">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 
 ![Snake animation](https://github.com/AlanPedroD/AlanPedroD/blob/output/github-contribution-grid-snake.svg)
