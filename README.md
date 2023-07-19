@@ -1,4 +1,4 @@
-## Olá, eu sou  Alan Pedro  <img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" /> 😊 ✌️ 
+## Olá, eu sou  Alan Pedro  <img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" /> 😊 
 
 ### Atualmente estou fazendo Curso de Desenvolvimento Front-end
 ## As tecnologias que estou utilizando são:
