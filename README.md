@@ -26,7 +26,4 @@
 </p>
 
 
-
-![Snake animation](https://github.com/AlanPedroD/AlanPedroD/blob/output/github-contribution-grid-snake.svg)
-
-
+![Snake animation](https://github.com/gugas1lva/gugas1lva/blob/output/github-snake-dark.svg)
