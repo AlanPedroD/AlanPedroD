@@ -25,8 +25,3 @@
 </a>
 </p>
 
-
-![Snake animation](https://github.com/AlanPedroD/AlanPedroD/blob/output/github-snake-dark.svg)
-
-![Snake animation](https://github.com/AlanPedroD/AlanPedroD/blob/output/github-contribution-grid-snake.svg)
-
