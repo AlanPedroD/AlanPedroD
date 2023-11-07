@@ -1,4 +1,7 @@
-### Olá, Sou Alan Dias <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 😊 
+### Olá, Sou Alan Dias <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> ![emoji-feliz-02](https://github.com/AlanPedroD/AlanPedroD/assets/85845887/f5d28ffa-51de-4992-9fdf-09d436bc7e70)
+
+
+
 
 ### Atualmente estou fazendo Curso de Desenvolvimento Front-end
 ## As tecnologias que estou utilizando são:
