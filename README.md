@@ -3,7 +3,7 @@
 
 
 
-### Atualmente estou fazendo Curso de Desenvolvimento Front-end
+### Estudante de tecnologia.
 ## 🚀 Tecnologias que estou utilizando:
 
 <p>
