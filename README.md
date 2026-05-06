@@ -6,7 +6,7 @@
 ### Estudante de tecnologia.
 ## 🚀 Tecnologias que estou utilizando:
 
-<p>
+<!-- <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="50" height="50"/>
-</p>
+</p> -->
 
 <!-- BADGES (clareza técnica) -->
 <p>
@@ -32,7 +32,10 @@
 
 <div>
 <a href="https://www.linkedin.com/in/alan-pedro-dias-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://portfolio-alan-dias-liart.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white">
+</a> 
 </div>
 
 <p align="left">
